@@ -34,6 +34,7 @@
 -->
 <br></br>
  :smiley: What I am up to:
+- :office: Applying to Help/Service desk jobs
 
 - :pencil2: I’m currently working on submitting more projects to github including Helpdesk, Cybersecurity and Programming Labs
 
