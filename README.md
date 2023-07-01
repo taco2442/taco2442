@@ -6,11 +6,17 @@
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
+- <b>Active Directory w/ 1,000 simulated users</b>
+  - [Creating a Active Directory environment in Virtualbox](https://github.com/taco2442/ActiveDirectory-1K_Users)
+
+
 <h2>:closed_lock_with_key: Security Projects:</h2>
 <!--
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/taco2442/Azure-Honeynet)
 -->
+
+
 <h2>:computer: Programming Projects:</h2>
 
 <br></br>
