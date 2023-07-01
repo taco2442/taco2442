@@ -1,42 +1,48 @@
-<h1>Hi, I'm Mark! Passionate About Cybersecurity  <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Chris! Aspiring Cybersecurity Proffesional   </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Azure / Cloud Projects</b>
-  - [Creating a live SOC/Honeynet in Azure](https://github.com/taco2442/Azure-Honeynet)
-
-<h2>👨‍💻 Programming Projects:</h2>
+<!--
+<br/><a href="https://github.com/taco2442">Programmer</a>, <a href="https://www.linkedin.com/">Cybersecurity Professional</a> </h1>
+-->
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
+<h2>:closed_lock_with_key: Security Projects:</h2>
+<!--
+- <b>Azure / Cloud Projects</b>
+  - [Creating a live SOC/Honeynet in Azure](https://github.com/taco2442/Azure-Honeynet)
+-->
+<h2>:computer: Programming Projects:</h2>
+
+<br></br>
+<!--
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>  Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/
+-->
+<br></br>
+ :smiley: What I am up to:
 
+- :pencil2: I’m currently working on submitting more projects to github including Helpdesk, Cybersecurity and Programming Labs
+
+- :book: I’m currently learning Network+ and NIMS (ICS-100)
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
+-  Ask me about ...
+-  How to reach me: ...
+-  Pronouns: ...
+-  Fun fact: ...
 -->
