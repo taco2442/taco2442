@@ -7,7 +7,7 @@
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
 - <b>Active Directory w/ 1,000 simulated users</b>
-  - [Creating a Active Directory environment in Virtualbox](https://github.com/taco2442/ActiveDirectory-1K_Users)
+  - [Active Directory environment in Virtualbox + Powershell](https://github.com/taco2442/ActiveDirectory-1K_Users)
  
 - <b>Service Desk lab</b>
   - [Creating a Service Desk lab using Windows server 2016](https://github.com/taco2442/ServiceDesk-Lab)
