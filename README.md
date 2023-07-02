@@ -14,7 +14,12 @@
 
 <h2>:computer: Programming Projects:</h2>
 
+- <b>Port Scanner - Python</b>
+
 <h2>:closed_lock_with_key: Security Projects:</h2>
+
+- <b>Nessus Vulnerability Management</b>
+
 <!--
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/taco2442/Azure-Honeynet)
