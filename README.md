@@ -12,15 +12,13 @@
 - <b>Service Desk lab</b>
   - [Creating a Service Desk lab using Windows server 2016](https://github.com/taco2442/ServiceDesk-Lab)
 
+<h2>:computer: Programming Projects:</h2>
 
 <h2>:closed_lock_with_key: Security Projects:</h2>
 <!--
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/taco2442/Azure-Honeynet)
 -->
-
-
-<h2>:computer: Programming Projects:</h2>
 
 <br></br>
 <!--
