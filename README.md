@@ -9,8 +9,8 @@
 - <b>Active Directory w/ 1,000 simulated users</b>
   - [Active Directory environment in Virtualbox + Powershell](https://github.com/taco2442/ActiveDirectory-1K_Users)
  
-- <b>Help Desk lab</b>
-  - [Creating an Active Directory lab using Windows server 2016](https://github.com/taco2442/ServiceDesk-Lab)
+- <b>Service Desk lab tutorial</b>
+  - [Creating a Service Desk lab using Windows server 2016](https://github.com/taco2442/ServiceDesk-Lab)
 
 <h2>:computer: Programming Projects:</h2>
 
