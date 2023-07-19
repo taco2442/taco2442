@@ -11,6 +11,9 @@
  
 - <b>Service Desk lab tutorial</b>
   - [Creating a Service Desk lab using Windows server 2016](https://github.com/taco2442/ServiceDesk-Lab)
+ 
+- <b>Common Helpdesk Problems</b>
+  - [Helpdesk common problems and solutions](https://github.com/taco2442/Common_Helpdesk)
 
 <h2>:computer: Programming Projects:</h2>
 
