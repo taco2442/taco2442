@@ -4,7 +4,7 @@
 <br/><a href="https://github.com/taco2442">Programmer</a>, <a href="https://www.linkedin.com/">Cybersecurity Professional</a> </h1>
 -->
 
-<h2>👨‍💻 Helpdesk Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory w/ 1,000 simulated users</b>
   - [Active Directory environment in Virtualbox + Powershell](https://github.com/taco2442/ActiveDirectory-1K_Users)
